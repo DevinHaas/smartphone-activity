@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "SmartphoneActivityModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.smartphoneactivity.SmartphoneActivityModule"
+    ]
+  }
+}
